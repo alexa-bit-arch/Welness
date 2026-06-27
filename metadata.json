@@ -1,0 +1,8 @@
+{
+  "name": "Mental Wellness Tracker",
+  "description": "An empathetic mental well-being tracker and GenAI analysis assistant designed for students preparing for high-stakes exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
